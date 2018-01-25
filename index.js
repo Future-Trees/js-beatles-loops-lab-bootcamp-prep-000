@@ -24,4 +24,4 @@ function iLoveTheBeatles(n){
   const num = []
   do { num.push("I love the Beatles!")
   n++}
-  while {
+  while {n<
