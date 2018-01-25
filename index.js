@@ -17,5 +17,5 @@ function johnLennonFacts(array){
 ];
 
 let i=0
-while (i=)
+while (i<facts.length)
 }
