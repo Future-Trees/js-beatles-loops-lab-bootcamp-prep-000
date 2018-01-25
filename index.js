@@ -17,7 +17,7 @@ function johnLennonFacts(array){
 ];
 
 let i=0
-while {
+while (i < facts.length)
     facts.push(`${facts[i]}!!!`)
     i++
   }
