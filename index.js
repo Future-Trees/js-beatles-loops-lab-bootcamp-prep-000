@@ -22,6 +22,7 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(n){
   const num = []
-  do { num.push(...num,"I love the Beatles!")
+  do { num.push("I love the Beatles!")
+  n++
   while 
 }
